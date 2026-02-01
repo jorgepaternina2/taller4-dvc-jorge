@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "aws-remote"']
+    url = s3://jorge-paternina-dvcstore-2026
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
